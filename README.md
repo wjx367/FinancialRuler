@@ -1,2 +1,2 @@
 # FinancialRuler
-计算理财尺子
+理财计算尺子
